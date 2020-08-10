@@ -9,4 +9,14 @@ Official initial code and interactive demo can be found [here](https://codepen.i
 My solution code and interactive demo can be found [here](https://codepen.io/DaveWork26/pen/jOOxpNY?editors=1111).
 Additionally, I've made the product search case-insensitive.
 
+## Screenshots
+
+#### All Products
+![All Products](./../Screenshots/ThinkingReactAll.JPG?raw=true "All Products")
+
+#### Only Stocked Products
+![Only Stocked Products](./../Screenshots/ThinkingReactStocked.JPG?raw=true "Only Stocked Products")
+
+#### Product Search
+![Product Search](./../Screenshots/ThinkingReactSearch.JPG?raw=true "Product Search")
 
