@@ -20,3 +20,6 @@ Additionally, I've made the product search case-insensitive.
 #### Product Search
 ![Product Search](./../Screenshots/ThinkingReactSearch.JPG?raw=true "Product Search")
 
+#### Only Stocked Products Search
+![Product Search](./../Screenshots/ThinkingReactStockedSearch.JPG?raw=true "Only Stocked Product Search")
+
